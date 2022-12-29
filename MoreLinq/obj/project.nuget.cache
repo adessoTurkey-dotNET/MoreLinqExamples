@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F2JQAQIh347+oluk5jnCs7sxZUw3t0vewvGCHwoA893jUxiHVZFQGfLQ2FPEv5kd4TvPcsKUwwJhlHetSyF2lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ftumer\\source\\repos\\MoreLinq\\MoreLinq\\MoreLinq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ftumer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

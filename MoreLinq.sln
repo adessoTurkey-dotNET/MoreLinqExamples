@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreLinq", "MoreLinq\MoreLinq.csproj", "{DFB819EE-B2D8-4466-B19F-A4A10988ED76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreLinqTest", "MoreLinqTest\MoreLinqTest.csproj", "{3E06F0E4-ED95-458F-9D8E-A33DA3EFF687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB819EE-B2D8-4466-B19F-A4A10988ED76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB819EE-B2D8-4466-B19F-A4A10988ED76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB819EE-B2D8-4466-B19F-A4A10988ED76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB819EE-B2D8-4466-B19F-A4A10988ED76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E06F0E4-ED95-458F-9D8E-A33DA3EFF687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E06F0E4-ED95-458F-9D8E-A33DA3EFF687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E06F0E4-ED95-458F-9D8E-A33DA3EFF687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E06F0E4-ED95-458F-9D8E-A33DA3EFF687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CA24B3B-6B4B-4A7E-8B19-74D74461FF51}
+	EndGlobalSection
+EndGlobal

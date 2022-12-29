@@ -1,0 +1,14 @@
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\bin\Debug\netcoreapp3.1\MoreLinq.exe
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\bin\Debug\netcoreapp3.1\MoreLinq.deps.json
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\bin\Debug\netcoreapp3.1\MoreLinq.runtimeconfig.json
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\bin\Debug\netcoreapp3.1\MoreLinq.runtimeconfig.dev.json
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\bin\Debug\netcoreapp3.1\MoreLinq.dll
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\bin\Debug\netcoreapp3.1\MoreLinq.pdb
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\obj\Debug\netcoreapp3.1\MoreLinq.csproj.AssemblyReference.cache
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\obj\Debug\netcoreapp3.1\MoreLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\obj\Debug\netcoreapp3.1\MoreLinq.AssemblyInfoInputs.cache
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\obj\Debug\netcoreapp3.1\MoreLinq.AssemblyInfo.cs
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\obj\Debug\netcoreapp3.1\MoreLinq.csproj.CoreCompileInputs.cache
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\obj\Debug\netcoreapp3.1\MoreLinq.dll
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\obj\Debug\netcoreapp3.1\MoreLinq.pdb
+C:\Users\ftumer\source\repos\MoreLinq\MoreLinq\obj\Debug\netcoreapp3.1\MoreLinq.genruntimeconfig.cache
